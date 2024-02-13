@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola mundo... 👋
+Bienvenido a la jungla de bits...
 
 <!--
 **Ivacker/ivacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ivacker" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/ivacker?trk=profile-badge">Ivacker »</a></div>
+              
