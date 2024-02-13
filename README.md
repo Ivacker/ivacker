@@ -1,4 +1,4 @@
-[![Texto alternativo](https://as1.ftcdn.net/v2/jpg/05/52/74/84/1000_F_552748421_twUz7OpbxVm7Zr976kXmMlN5VxKF5BjJ.jpg)]
+[![Texto alternativo](https://github.com/Ivacker/ivacker/blob/main/visual_studio_wallpaper_009%20-%20copia.jpg?raw=true)]
 ### ¡Hola mundo! 👋
 ¡Bienvenido a mi rincón de código en la jungla de bits!
 
