@@ -1,4 +1,4 @@
-![Texto alternativo]([https://github.com/Ivacker/ivacker/blob/main/visual_studio_wallpaper_009%20-%20copia.jpg?raw=true])
+![Texto alternativo]([https://github.com/Ivacker/ivacker/blob/main/visual_studio_wallpaper_009%20-%20copia.jpg?raw=true)
 ### ¡Hola mundo! 👋
 ¡Bienvenido a mi rincón de código en la jungla de bits!
 
